@@ -32,10 +32,10 @@ References
 * MDN Mime-Types -- https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types
 * os module -- https://docs.python.org/3.5/library/os.html?highlight=os#module-os
 * os.path -- https://www.geeksforgeeks.org/os-path-module-python/
-* DateTime 
+* DateTime --
     https://stackoverflow.com/questions/9847213/how-do-i-get-the-day-of-week-given-a-date </br>
     https://www.programiz.com/python-programming/datetime/strftime
-* HTTP Status Code Formats 
+* HTTP Status Code Formats --
     https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/301 </br>
     https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405 </br>
     https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 </br>
